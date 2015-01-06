@@ -1,0 +1,308 @@
+fileFormatVersion: 2
+guid: 5cb7a3684b562fd40a3530c210464d51
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: 1
+    100002: 2
+    100004: A
+    100006: B
+    100008: BEER
+    100010: //RootNode
+    100012: Boole
+    100014: Camera
+    100016: Cap 1
+    100018: Cap 1.10
+    100020: Cap 1.2
+    100022: Cap 1.3
+    100024: Cap 1.4
+    100026: Cap 1.5
+    100028: Cap 1.6
+    100030: Cap 1.7
+    100032: Cap 1.8
+    100034: Cap 1.9
+    100036: Cap 2
+    100038: Cap 2.10
+    100040: Cap 2.2
+    100042: Cap 2.3
+    100044: Cap 2.4
+    100046: Cap 2.5
+    100048: Cap 2.6
+    100050: Cap 2.7
+    100052: Cap 2.8
+    100054: Cap 2.9
+    100056: Cylinder
+    100058: Cylinder-Cylinder.1
+    100060: Cylinder.1
+    100062: E
+    100064: E.2
+    100066: Emitter
+    100068: G
+    100070: GAMMON
+    100072: Light
+    100074: Light.1
+    100076: M
+    100078: M.2
+    100080: MoText
+    100082: N
+    100084: Null
+    100086: Null.2
+    100088: O
+    100090: Plane
+    100092: R
+    100094: Rounding
+    100096: Rounding.10
+    100098: Rounding.2
+    100100: Rounding.3
+    100102: Rounding.4
+    100104: Rounding.5
+    100106: Rounding.6
+    100108: Rounding.7
+    100110: Rounding.8
+    100112: Rounding.9
+    100114: Sphere
+    100116: Null.3
+    100118: Plane.1
+    400000: 1
+    400002: 2
+    400004: A
+    400006: B
+    400008: BEER
+    400010: //RootNode
+    400012: Boole
+    400014: Camera
+    400016: Cap 1
+    400018: Cap 1.10
+    400020: Cap 1.2
+    400022: Cap 1.3
+    400024: Cap 1.4
+    400026: Cap 1.5
+    400028: Cap 1.6
+    400030: Cap 1.7
+    400032: Cap 1.8
+    400034: Cap 1.9
+    400036: Cap 2
+    400038: Cap 2.10
+    400040: Cap 2.2
+    400042: Cap 2.3
+    400044: Cap 2.4
+    400046: Cap 2.5
+    400048: Cap 2.6
+    400050: Cap 2.7
+    400052: Cap 2.8
+    400054: Cap 2.9
+    400056: Cylinder
+    400058: Cylinder-Cylinder.1
+    400060: Cylinder.1
+    400062: E
+    400064: E.2
+    400066: Emitter
+    400068: G
+    400070: GAMMON
+    400072: Light
+    400074: Light.1
+    400076: M
+    400078: M.2
+    400080: MoText
+    400082: N
+    400084: Null
+    400086: Null.2
+    400088: O
+    400090: Plane
+    400092: R
+    400094: Rounding
+    400096: Rounding.10
+    400098: Rounding.2
+    400100: Rounding.3
+    400102: Rounding.4
+    400104: Rounding.5
+    400106: Rounding.6
+    400108: Rounding.7
+    400110: Rounding.8
+    400112: Rounding.9
+    400114: Sphere
+    400116: Null.3
+    400118: Plane.1
+    2300000: A
+    2300002: B
+    2300004: Cap 1
+    2300006: Cap 1.10
+    2300008: Cap 1.2
+    2300010: Cap 1.3
+    2300012: Cap 1.4
+    2300014: Cap 1.5
+    2300016: Cap 1.6
+    2300018: Cap 1.7
+    2300020: Cap 1.8
+    2300022: Cap 1.9
+    2300024: Cap 2
+    2300026: Cap 2.10
+    2300028: Cap 2.2
+    2300030: Cap 2.3
+    2300032: Cap 2.4
+    2300034: Cap 2.5
+    2300036: Cap 2.6
+    2300038: Cap 2.7
+    2300040: Cap 2.8
+    2300042: Cap 2.9
+    2300044: Cylinder-Cylinder.1
+    2300046: E
+    2300048: E.2
+    2300050: G
+    2300052: M
+    2300054: M.2
+    2300056: N
+    2300058: O
+    2300060: Plane
+    2300062: R
+    2300064: Rounding
+    2300066: Rounding.10
+    2300068: Rounding.2
+    2300070: Rounding.3
+    2300072: Rounding.4
+    2300074: Rounding.5
+    2300076: Rounding.6
+    2300078: Rounding.7
+    2300080: Rounding.8
+    2300082: Rounding.9
+    2300084: Plane.1
+    3300000: A
+    3300002: B
+    3300004: Cap 1
+    3300006: Cap 1.10
+    3300008: Cap 1.2
+    3300010: Cap 1.3
+    3300012: Cap 1.4
+    3300014: Cap 1.5
+    3300016: Cap 1.6
+    3300018: Cap 1.7
+    3300020: Cap 1.8
+    3300022: Cap 1.9
+    3300024: Cap 2
+    3300026: Cap 2.10
+    3300028: Cap 2.2
+    3300030: Cap 2.3
+    3300032: Cap 2.4
+    3300034: Cap 2.5
+    3300036: Cap 2.6
+    3300038: Cap 2.7
+    3300040: Cap 2.8
+    3300042: Cap 2.9
+    3300044: Cylinder-Cylinder.1
+    3300046: E
+    3300048: E.2
+    3300050: G
+    3300052: M
+    3300054: M.2
+    3300056: N
+    3300058: O
+    3300060: Plane
+    3300062: R
+    3300064: Rounding
+    3300066: Rounding.10
+    3300068: Rounding.2
+    3300070: Rounding.3
+    3300072: Rounding.4
+    3300074: Rounding.5
+    3300076: Rounding.6
+    3300078: Rounding.7
+    3300080: Rounding.8
+    3300082: Rounding.9
+    3300084: Plane.1
+    4300000: Cylinder-Cylinder.1
+    4300002: Plane
+    4300004: B
+    4300006: Rounding
+    4300008: Cap 1
+    4300010: Cap 2
+    4300012: E
+    4300014: Rounding.2
+    4300016: Cap 1.2
+    4300018: Cap 2.2
+    4300020: E.2
+    4300022: Rounding.3
+    4300024: Cap 1.3
+    4300026: Cap 2.3
+    4300028: R
+    4300030: Rounding.4
+    4300032: Cap 1.4
+    4300034: Cap 2.4
+    4300036: G
+    4300038: Rounding.5
+    4300040: Cap 1.5
+    4300042: Cap 2.5
+    4300044: A
+    4300046: Rounding.6
+    4300048: Cap 1.6
+    4300050: Cap 2.6
+    4300052: M
+    4300054: Rounding.7
+    4300056: Cap 1.7
+    4300058: Cap 2.7
+    4300060: M.2
+    4300062: Rounding.8
+    4300064: Cap 1.8
+    4300066: Cap 2.8
+    4300068: O
+    4300070: Rounding.9
+    4300072: Cap 1.9
+    4300074: Cap 2.9
+    4300076: N
+    4300078: Rounding.10
+    4300080: Cap 1.10
+    4300082: Cap 2.10
+    4300084: Plane.1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 1
+  userData: 

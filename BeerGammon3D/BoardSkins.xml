@@ -1,0 +1,29 @@
+<boardSkins>
+	<skin>
+		<skinName>Classic Wood</skinName>
+		<boardSkinTexture>Backgammon3</boardSkinTexture>
+		<diceWallSkinTexture>DiceWall</diceWallSkinTexture>
+		<diceWallColorRed>1.0</diceWallColorRed>
+		<diceWallColorGreen>1.0</diceWallColorGreen>
+		<diceWallColorBlue>1.0</diceWallColorBlue>
+		<skinPreview></skinPreview>
+	</skin>	
+	<skin>
+		<skinName>Team USA</skinName>
+		<boardSkinTexture>Backgammon8</boardSkinTexture>
+		<diceWallSkinTexture>dicewall_felt_gray_small</diceWallSkinTexture>
+		<diceWallColorRed>0.243</diceWallColorRed>
+		<diceWallColorGreen>0.384</diceWallColorGreen>
+		<diceWallColorBlue>1.0</diceWallColorBlue>
+		<skinPreview></skinPreview>
+	</skin>
+	<skin>
+		<skinName>Black and White</skinName>
+		<boardSkinTexture>Backgammon5</boardSkinTexture>
+		<diceWallSkinTexture>dicewall_felt_gray_small</diceWallSkinTexture>
+		<diceWallColorRed>1.0</diceWallColorRed>
+		<diceWallColorGreen>1.0</diceWallColorGreen>
+		<diceWallColorBlue>1.0</diceWallColorBlue>
+		<skinPreview></skinPreview>
+	</skin>
+</boardSkins>
