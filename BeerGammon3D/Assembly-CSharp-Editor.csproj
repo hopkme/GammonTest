@@ -74,7 +74,7 @@
  <HintPath>C:/Program Files (x86)/Unity/Editor4.3.4f1/Data/UnityExtensions/Unity/GUISystem/4.6.1/Editor/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="ICSharpCode.SharpZipLib">
- <HintPath>C:/Users/hopkme/Documents/GammonBackup/BeerGammon3D/Assets/AJUnity2Eclipse/Assemblies/ICSharpCode.SharpZipLib.dll</HintPath>
+ <HintPath>C:/Users/hopkme/Documents/GammonTest/GammonTest/BeerGammon3D/Assets/AJUnity2Eclipse/Assemblies/ICSharpCode.SharpZipLib.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>C:/Program Files (x86)/Unity/Editor4.3.4f1/Data/Managed/UnityEditor.Graphs.dll</HintPath>
