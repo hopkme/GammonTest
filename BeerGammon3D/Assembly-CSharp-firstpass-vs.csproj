@@ -62,6 +62,7 @@
      <None Include="Assets\TextFx\Demo Scenes\Fonts\Bitmap Fonts\showcard_gothic.txt" />
      <None Include="Assets\TextFx\Demo Scenes\Fonts\Bitmap Fonts\carbon.txt" />
      <None Include="Assets\TextFx\Demo Scenes\Fonts\Bitmap Fonts\showcard_gothic_drop_shadow.txt" />
+     <None Include="Assets\ComponentCopier\readme.txt" />
      <None Include="Assets\TextFx\Demo Scenes\Fonts\Bitmap Fonts\punk.txt" />
      <None Include="Assets\TextFx\Demo Scenes\Fonts\Bitmap Fonts\katy_berry.txt" />
      <None Include="Assets\Plugins\iTween\ReadMe!\ReadMe!.txt" />
