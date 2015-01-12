@@ -502,24 +502,24 @@ function roll() {
 	
 	if (GameState.player1Turn) {
 		if (GameState.initialPlayer1Roll1 == 0)  {
-			die1.rigidbody.mass = 2.5;
-			die1.rigidbody.AddForce(Random.Range(-50,-50),Random.Range(0,-5),Random.Range(-6,6),ForceMode.Impulse);
+			die1.rigidbody.mass = 10;
+			die1.rigidbody.AddForce(Random.Range(-180,-140),Random.Range(0,-5),Random.Range(-26,-6),ForceMode.Impulse);
 			die1.rigidbody.AddTorque(Random.Range(-15,-20),Random.Range(3,-20),Random.Range(-4,4),ForceMode.Impulse);
 		}
 		if ((!GameState.rollForTurn) || (GameState.initialPlayer1Roll1 > 0)) {
-			die2.rigidbody.mass = 2.5;
-			die2.rigidbody.AddForce(Random.Range(-50,-50),Random.Range(0,-5),Random.Range(-6,6),ForceMode.Impulse);
+			die2.rigidbody.mass = 10;
+			die2.rigidbody.AddForce(Random.Range(-180,-140),Random.Range(0,-5),Random.Range(-26,-6),ForceMode.Impulse);
 			die2.rigidbody.AddTorque(Random.Range(-15,-20),Random.Range(3,-20),Random.Range(-4,4),ForceMode.Impulse);
 		}
 	}else{
 		if (GameState.initialPlayer2Roll1 == 0) {
-			die1.rigidbody.mass = 2.5;
-			die1.rigidbody.AddForce(Random.Range(50,50),Random.Range(0,-5),Random.Range(-6,6),ForceMode.Impulse);
+			die1.rigidbody.mass = 10;
+			die1.rigidbody.AddForce(Random.Range(180,140),Random.Range(0,-5),Random.Range(-26,-6),ForceMode.Impulse);
 			die1.rigidbody.AddTorque(Random.Range(15,20),Random.Range(3,-20),Random.Range(-4,4),ForceMode.Impulse);
 		}
 		if ((!GameState.rollForTurn) || (GameState.initialPlayer2Roll1 > 0)) {
-			die2.rigidbody.mass = 2.5;
-			die2.rigidbody.AddForce(Random.Range(50,50),Random.Range(0,-5),Random.Range(-6,6),ForceMode.Impulse);
+			die2.rigidbody.mass = 10;
+			die2.rigidbody.AddForce(Random.Range(180,140),Random.Range(0,-5),Random.Range(-26,-6),ForceMode.Impulse);
 			die2.rigidbody.AddTorque(Random.Range(15,20),Random.Range(3,-20),Random.Range(-4,4),ForceMode.Impulse);
 		}
 	}	
