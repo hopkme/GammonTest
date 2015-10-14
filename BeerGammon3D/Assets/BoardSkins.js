@@ -22,12 +22,12 @@ function loadBoardSkins() {
 	
 	if (xmlDoc.ChildNodes.Count > 0) {
 		var skinList : XmlNodeList = xmlDoc.GetElementsByTagName("skin");
-		
+		print("more than 0");
 		for (var skinItem : XmlNode in skinList) {
 			var skinElementsList : XmlNodeList = skinItem.ChildNodes;
 			var _boardSkin : BoardSkin = new BoardSkin();
 			GameState.availableSkins.Add(_boardSkin);			
-			
+			print("adding...");
 			for (var skinElement : XmlNode in skinElementsList) {
 				if (skinElement.Name == "skinName") {
 					_boardSkin.skinName = skinElement.InnerText;
@@ -52,5 +52,6 @@ function loadBoardSkins() {
 				}
 			}
 		}
+		
 	}	
 } 
